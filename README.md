@@ -38,23 +38,25 @@
 
 ## 🛠️ Featured Projects
 
-### 🤖 Intelligent Systems and Analytics
+### :thinking: Intelligent Systems and Analytics
 
 ♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
 Custom move generation and evaluation; >300k nodes/sec traversal with targeted pruning and testing harnesses to track Elo and regression vs. puzzle suites.  
 🖥️ C++, Testing Harness, Performance Engineering
 
-🏀 **NBA MVP Predictor**  
+🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor)  
 scikit-learn regressions on historical stats to predict MVP outcomes; feature engineering + model comparison with cross-validation.  
 🖥️ Python, scikit-learn, pandas
 
-### ⚙️ Control Theory, Embedded, and Edge AI
+### :eyes: Computer Vision and Edge AI
 
 🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
 Edge AI object detection and mapping for park rangers; YOLOv8s on Hailo 8L with 4K tiling for small object boosts; integrated UART/SPI with GPS (Quectel L76K) and LoRa (SX1262).  
 🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi
 
-🏗️ **Pipelined RISC Processor with Hazard Detection**  
+### :electric_plug: Hardware and Embedded
+
+🏗️ **Pipelined RISC Processor with Hazard Detection**
 Structurally implemented RISC in VHDL; arithmetic, branching, jumps, memory ops; custom hazard detection for data/control hazards.  
 🖥️ VHDL, Quartus, FPGA
 
@@ -63,10 +65,11 @@ Gate-level VHDL FSM with real hardware inputs; UART 9600 for live logging; synth
 🖥️ VHDL, FPGA, UART
 
 ## 🤝 Community Involvement
-- Treasurer — IEEE uOttawa Student Branch (May 2023 – Apr 2025)
-- Treasurer — Women in Engineering uOttawa (May 2024 – Apr 2025)
-- Treasurer — uOttawa Minds on AI (Jun 2025 – Present)
-- Organizer — uOttawa Computer Chess Tournament
+[![IEEE uOttawa](https://img.shields.io/badge/IEEE_uOttawa-Treasurer-1A3E8C?style=flat&logo=ieee&logoColor=white)](https://www.linkedin.com/company/ieee-university-of-ottawa-student-branch/)
+[![WIE uOttawa](https://img.shields.io/badge/WIE_uOttawa-Treasurer-7B3FA3?style=flat&logo=ieee&logoColor=white)](https://www.linkedin.com/company/uottawa-women-in-engineering/)
+[![Minds on AI uOttawa](https://img.shields.io/badge/%F0%9F%A7%A0_Minds_on_AI_uOttawa-Treasurer-0A66C2?style=flat)](https://www.linkedin.com/company/minds-on-ai-ottawa/)
+![uOttawa Computer Chess Tournament — Organizer](https://img.shields.io/badge/uOttawa_Computer_Chess_Tournament-Organizer-000000?style=flat&logo=lichess&logoColor=white)
+
 
 ## 🧭 How I Work
 - Define metrics first (Elo, accuracy, latency, score)
