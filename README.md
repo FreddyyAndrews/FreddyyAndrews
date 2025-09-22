@@ -44,7 +44,7 @@
 Custom move generation and evaluation; >300k nodes/sec traversal with targeted pruning and testing harnesses to track Elo and regression vs. puzzle suites.  
 🖥️ C++, Testing Harness, Performance Engineering
 
-![Demo](README_CHESS_GIF.gif)
+![Demo](Assets/README_CHESS_GIF.gif)
 
 🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor)  
 scikit-learn regressions on historical stats to predict MVP outcomes; feature engineering + model comparison with cross-validation.  
