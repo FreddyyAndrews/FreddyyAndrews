@@ -38,17 +38,27 @@
 
 ## 🛠️ Featured Projects
 
-### :thinking: Intelligent Systems and Analytics
-- [FreddyyBot Chess Engine](https://github.com/FreddyyAndrews/FreddyyBot): Built from scratch in C++ and optimized with a metrics-driven test loop to continually raise Elo.  
-Send the bot a challenge: https://lichess.org/@/FreddyyBot
-- [NBA MVP Predictor](https://github.com/FreddyyAndrews/NBA-MVP-Predictor): Used scikit-learn regressions, pandas for data manipulation, and matplotlib for plotting; correctly predicted the 2023–2024 NBA MVP as Nikola Jokic.
+♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
+Custom move generation and evaluation; >300k nodes/sec traversal with targeted pruning and testing harnesses to track Elo and regression vs. puzzle suites.  
+🖥️ C++, Testing Harness, Performance Engineering
 
-### :eyes: Computer Vision and Edge AI
-- [TAILS Embedded System](https://github.com/FreddyyAndrews/TAILS-Embedded): Edge AI object detection and mapping on Hailo 8L with 4K tiling; integrated UART/SPI with GPS (L76K) and LoRa (SX1262) on Raspberry Pi.
+![Demo](Assets/README_CHESS_GIF.gif)
 
-### :electric_plug: Hardware and Embedded
-- Pipelined RISC Processor with Hazard Detection: Structurally implemented pipelined RISC CPU in VHDL with hazard detection for data/control hazards across arithmetic, branching, jumps, and memory ops.
-- [Traffic Light Control System (UART Debuggable)](https://github.com/FreddyyAndrews/Traffic-Light-Control-System-With-UART): Gate-level VHDL FSM with real inputs and UART 9600 logging, synthesized on Cyclone IV DE2-115 FPGA.
+🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor)  
+scikit-learn regressions on historical stats to predict MVP outcomes; feature engineering + model comparison with cross-validation.  
+🖥️ Python, scikit-learn, pandas
+
+🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
+Edge AI object detection and mapping for park rangers; YOLOv8s on Hailo 8L with 4K tiling for small object boosts; integrated UART/SPI with GPS (Quectel L76K) and LoRa (SX1262).  
+🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi
+
+🏗️ **Pipelined RISC Processor with Hazard Detection**
+Structurally implemented RISC in VHDL; arithmetic, branching, jumps, memory ops; custom hazard detection for data/control hazards.  
+🖥️ VHDL, Quartus, FPGA
+
+🚦 [**Traffic Light Control System (UART Debuggable)**](https://github.com/FreddyyAndrews/Traffic-Light-Control-System-With-UART)  
+Gate-level VHDL FSM with real hardware inputs; UART 9600 for live logging; synthesized on Cyclone IV DE2-115.  
+🖥️ VHDL, FPGA, UART
 
 ## 🤝 Community Involvement
 [![IEEE uOttawa](https://img.shields.io/badge/IEEE_uOttawa-Treasurer-1A3E8C?style=flat&logo=ieee&logoColor=white)](https://www.linkedin.com/company/ieee-university-of-ottawa-student-branch/)
