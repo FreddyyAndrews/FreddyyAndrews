@@ -38,8 +38,6 @@
 
 ## 🛠️ Featured Projects
 
-### :thinking: Intelligent Systems and Analytics
-
 ♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
 Custom move generation and evaluation; >300k nodes/sec traversal with targeted pruning and testing harnesses to track Elo and regression vs. puzzle suites.  
 🖥️ C++, Testing Harness, Performance Engineering
@@ -50,13 +48,9 @@ Custom move generation and evaluation; >300k nodes/sec traversal with targeted p
 scikit-learn regressions on historical stats to predict MVP outcomes; feature engineering + model comparison with cross-validation.  
 🖥️ Python, scikit-learn, pandas
 
-### :eyes: Computer Vision and Edge AI
-
 🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
 Edge AI object detection and mapping for park rangers; YOLOv8s on Hailo 8L with 4K tiling for small object boosts; integrated UART/SPI with GPS (Quectel L76K) and LoRa (SX1262).  
 🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi
-
-### :electric_plug: Hardware and Embedded
 
 🏗️ **Pipelined RISC Processor with Hazard Detection**
 Structurally implemented RISC in VHDL; arithmetic, branching, jumps, memory ops; custom hazard detection for data/control hazards.  
