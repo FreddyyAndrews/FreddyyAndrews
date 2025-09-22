@@ -39,7 +39,8 @@
 ## 🛠️ Featured Projects
 
 ♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
-Build from scratch with custom board representation and move generation.
+>Build from scratch with custom board representation and move generation.
+
 :facepunch: [Send it a challenge on Lichess](https://lichess.org/@/FreddyyBot)
 🖥️ C++, GTest, Performance Engineering
 
