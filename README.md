@@ -38,33 +38,22 @@
 
 ## 🛠️ Featured Projects
 
-♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
->Build from scratch with custom board representation and move generation.
-
-:facepunch: [Send it a challenge on Lichess](https://lichess.org/@/FreddyyBot)
-🖥️ C++, GTest, Performance Engineering
+♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot) - C++, GTest, Performance Engineering
+>Build from scratch with custom board representation and move generation. [Send it a challenge on Lichess](https://lichess.org/@/FreddyyBot)
 
 ![Demo](Assets/README_CHESS_GIF.gif)
 
-🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor)  
+🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor) - Python, scikit-learn, pandas, matplotlib
 > Scikit-learn regressions trained on historical stats to predict MVP outcomes. Correctly predicted Nikola Jokic as 2023-2024 MVP.
 
-🖥️ Python, scikit-learn, pandas, matplotlib
-
-🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
+🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded) - Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi, GStreamer
 >Edge AI object detection and mapping for park rangers. Detects objects, gathers current GPS location, and transmits LoRa packets.
 
-🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi, GStreamer
-
-🏗️ **Pipelined RISC Processor with Hazard Detection**
+🏗️ **Pipelined RISC Processor with Hazard Detection** - VHDL, Quartus, FPGA, RISC
 >Pipelined RISC CPU in VHDL that executes programs correctly under pipeline hazards via custom data and control hazard detection.
 
-🖥️ VHDL, Quartus, FPGA, RISC
-
-🚦 [**Traffic Light Control System (UART Debuggable)**](https://github.com/FreddyyAndrews/Traffic-Light-Control-System-With-UART)  
+🚦 [**Traffic Light Control System (UART Debuggable)**](https://github.com/FreddyyAndrews/Traffic-Light-Control-System-With-UART) - VHDL, FPGA, UART 
 >Real-time traffic light controller with hardware inputs and live 9600-baud UART logging, deployed on Cyclone IV DE2-115.
-
-🖥️ VHDL, FPGA, UART
 
 ## 🤝 Community Involvement
 [![IEEE uOttawa](https://img.shields.io/badge/IEEE_uOttawa-Treasurer-1A3E8C?style=flat&logo=ieee&logoColor=white)](https://www.linkedin.com/company/ieee-university-of-ottawa-student-branch/)
