@@ -1,7 +1,7 @@
 # What’s Up, I’m Freddy! ✌️
 
 <p align="center">
-  <img src="Assets/Mountain.jpg" alt="Banner" style="width:100%; max-height:280px; object-fit: cover;" />
+  <img src="Assets/Mountain.jpg" alt="Banner" style="width:100%; max-height:180px; object-fit: cover;" />
 </p>
 
 ## 📝 About Me  
@@ -39,25 +39,30 @@
 ## 🛠️ Featured Projects
 
 ♟️ [**FreddyyBot Chess Engine**](https://github.com/FreddyyAndrews/FreddyyBot)  
-Custom move generation and evaluation; >300k nodes/sec traversal with targeted pruning and testing harnesses to track Elo and regression vs. puzzle suites.  
-🖥️ C++, Testing Harness, Performance Engineering
+Build from scratch with custom board representation and move generation.
+:facepunch: [Send it a challenge on Lichess](https://lichess.org/@/FreddyyBot)
+🖥️ C++, GTest, Performance Engineering
 
 ![Demo](Assets/README_CHESS_GIF.gif)
 
 🏀 [**NBA MVP Predictor**](https://github.com/FreddyyAndrews/NBA-MVP-Predictor)  
-scikit-learn regressions on historical stats to predict MVP outcomes; feature engineering + model comparison with cross-validation.  
-🖥️ Python, scikit-learn, pandas
+> Scikit-learn regressions trained on historical stats to predict MVP outcomes. Correctly predicted Nikola Jokic as 2023-2024 MVP.
+
+🖥️ Python, scikit-learn, pandas, matplotlib
 
 🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
-Edge AI object detection and mapping for park rangers; YOLOv8s on Hailo 8L with 4K tiling for small object boosts; integrated UART/SPI with GPS (Quectel L76K) and LoRa (SX1262).  
-🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi
+>Edge AI object detection and mapping for park rangers. Detects objects, gathers current GPS location, and transmits LoRa packets.
+
+🖥️ Python, OpenCV, Edge AI, UART/SPI, LoRa, Raspberry Pi, GStreamer
 
 🏗️ **Pipelined RISC Processor with Hazard Detection**
-Structurally implemented RISC in VHDL; arithmetic, branching, jumps, memory ops; custom hazard detection for data/control hazards.  
-🖥️ VHDL, Quartus, FPGA
+>Pipelined RISC CPU in VHDL that executes programs correctly under pipeline hazards via custom data and control hazard detection.
+
+🖥️ VHDL, Quartus, FPGA, RISC
 
 🚦 [**Traffic Light Control System (UART Debuggable)**](https://github.com/FreddyyAndrews/Traffic-Light-Control-System-With-UART)  
-Gate-level VHDL FSM with real hardware inputs; UART 9600 for live logging; synthesized on Cyclone IV DE2-115.  
+>Real-time traffic light controller with hardware inputs and live 9600-baud UART logging, deployed on Cyclone IV DE2-115.
+
 🖥️ VHDL, FPGA, UART
 
 ## 🤝 Community Involvement
