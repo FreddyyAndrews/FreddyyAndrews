@@ -12,7 +12,6 @@
 
 ### 🛠️ I Worked at  
 [![Larus Technologies](https://img.shields.io/badge/Larus_Technologies-Data_Science_&_MLOps-green?style=flat)](https://www.larus.com/)
-[![Canadian Centre for Cyber Security](https://img.shields.io/badge/Canadian_Centre_for_Cyber_Security-Software_Dev-purple?style=flat)](https://cyber.gc.ca/en/)
 
 ### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/frederick-wilson-andrews/)
